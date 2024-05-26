@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: lightgreen;
 
 }
 a {
@@ -8,7 +8,7 @@ a {
   margin: 20px;
   border: 1px solid brown;
   border-radius: 8px;
-  background-color: solid brown
+  background-color: brown
 }
 
 main {
