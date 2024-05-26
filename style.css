@@ -13,6 +13,9 @@ body {
 main {
     color: rgb(69, 3, 3);
 }
+main a {
+    font-size: 30px;
+}
 footer {
     color: green;
 }
