@@ -2,9 +2,14 @@ body {
     background-color: green;
 
 }
-a {
-    color: rgb(69, 3, 3);
+    a {
+  text-decoration: none;
+  padding: 8px;
+  margin: 20px;
+  border: 1px solid brown;
+  border-radius: 8px;
 }
+
 main {
     color: rgb(69, 3, 3);
 }
